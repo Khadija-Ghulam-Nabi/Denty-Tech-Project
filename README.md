@@ -7,10 +7,13 @@
           •  A header with a navigation bar, complete with hover 
               effects and accessible title attributes for buttons, making 
                it 𝘀𝗰𝗿𝗲𝗲𝗻- 𝗿𝗲𝗮𝗱𝗲𝗿-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆.
+               
           •  A main section that highlights creativity with tilted and styled 
               images.
+              
           •  A clean and professional footer with social media icons and 
               hover effects.
+              
 
 💡 Next Steps:
          •  Improve 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲𝗻𝗲𝘀𝘀 for mobile and other screen sizes.
