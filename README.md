@@ -19,7 +19,6 @@
              my understanding of front-end development.
              
 🔗 Check out the 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗹𝗶𝘃𝗲 at:   
-
           https://khadija-ghulam-nabi.github.io/Denty-Tech-Project/
 
 🔧 Let me know what you think or suggest areas for 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁. 
