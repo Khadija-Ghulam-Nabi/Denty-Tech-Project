@@ -5,12 +5,10 @@
 
 🛠️ What I Built:
           •  A header with a navigation bar, complete with hover 
-              effects and accessible title attributes for buttons, making 
-               it 𝘀𝗰𝗿𝗲𝗲𝗻- 𝗿𝗲𝗮𝗱𝗲𝗿-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆.
-               
+             effects and accessible title attributes for buttons, making 
+             it 𝘀𝗰𝗿𝗲𝗲𝗻- 𝗿𝗲𝗮𝗱𝗲𝗿-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆.
           •  A main section that highlights creativity with tilted and styled 
-              images.
-              
+              images. 
           •  A clean and professional footer with social media icons and 
               hover effects.
               
